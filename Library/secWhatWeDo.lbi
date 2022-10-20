@@ -1,0 +1,48 @@
+<!-- ----- -->
+<!-- ------------------------------ secWhyChooseUs --------------------------------- -->				
+	<section class="why-choose-us-area">
+		<div class="container-fluid"> 
+			<div class="row">
+				<div class="col-lg-6 col-md-12">
+					<div class="why-choose-us-content">
+						<div class="content">
+							<span class="sub-title">WHY CHOOSE US?</span>
+							<h2>What we do best,<br>Superior precise quality welds!</h2>
+							<p><span class="iw813">LAURIES WELDING GROUP</span> With our knowledge and experience, it is our goal to attend to our clients needs, going above and beyond their expectations. Long's Welding is your choice for the highest quality and most innovative ideas in iron metal works and ornamentals</p>
+							<ul class="features-list-all">
+								<li><span><i class="fas fa-check-double"></i> Door/Gates Hingued</span></li>								
+								<li><span><i class="fas fa-check-double"></i> Door/Gates Roller/Sliding </span></li>
+                                <li><span><i class="fas fa-check-double"></i> Door/Gates Any shape,custom </span></li>
+								   <li><span><i class="fas fa-check-double"></i>Door/Gates Luxury  </span></li>
+                                <li><span><i class="fas fa-check-double"></i> Pergola Patio </span></li>
+                                <li><span><i class="fas fa-check-double"></i> Fences Fabrication and Instalation</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Truck Repair</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Metal, Steel, Iron Jobs</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Welding repairs</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Commercial and Residential Fabrication/Instalation/Reparation</span></li>
+							</ul>
+							<div class="btn-box pt-4">
+								<a href="../services.html" class="btn btn-primary btn-orange">Check Our Current Specials <i class="fas fa-arrow-right"></i></a>	
+							</div>							
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-6 col-md-12 d-none d-sm-block">
+					<div class="divider-Bs5"></div>
+					<div class="why-choose-us-slides owl-carousel owl-theme">
+						<div class="why-choose-us-image bg21"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-10.jpg" alt="image"></div>
+						<div class="why-choose-us-image bg22"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-20.jpg" alt="image"></div>
+						<div class="why-choose-us-image bg23"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-30.jpg" alt="image"></div>
+                        <div class="why-choose-us-image bg24"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-40.jpg" alt="image"></div>
+                        <div class="why-choose-us-image bg25"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-50.jpg" alt="image"></div>
+                        <div class="why-choose-us-image bg26"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-60.jpg" alt="image"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<!-- end:secWhyChooseUs  --------------------------------- -->
+<!-- ----- -->
+
+

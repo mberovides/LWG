@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /Library/
+Disallow: /Templates/
+
+### Disallow: /
+### Sitemap: http://www.example.com/sitemap.xml

@@ -1,0 +1,72 @@
+
+<!-- ----- -->
+<!-- ------------------------------ secServeArea --------------------------------- -->				
+<section id="secServeArea" class="serve-area">
+		<div class="container justify-content-center">
+<!--			<div class="row align-items-center">               -->                
+            <div class="row justify-content-center">                
+			
+				<div class="col-lg-6 col-11">
+					 <div class="serve-image">
+                            <img src="/assets/img/iw305-WhoWeServe.jpg" alt="5+ Years Experience">
+                            <div class="text sha3"><p><span>5*</span> Years Experience</p></div>
+                     </div>                       
+				</div>	
+                
+				<div class="col-lg-6 col-11">
+					<div class="serve-content">
+						<h2>Proudly Served</h2>                        
+                        <h1 class="d-none d-sm-block gradTGreen">Welding!</h1>		
+                        <h1 class="d-block d-sm-none gradTGreen">Fabrications!</h1>
+                        
+						<p>After 5+ Years, we have served more than 1,400+ Florida’s families and bussines and lifetime memories through all the following areas:</p> 
+						<ul class="features-list">
+<li><span><i class="fas fa-check"></i>Fort Lauderdale</span></li>
+<li><span><i class="fas fa-check"></i>Pembroke Pines</span></li>
+<li><span><i class="fas fa-check"></i>Hollywood</span></li>
+<li><span><i class="fas fa-check"></i>Miramar</span></li>
+<li><span><i class="fas fa-check"></i>Coral Springs</span></li>
+<li><span><i class="fas fa-check"></i>Pompano Beach</span></li>
+<li><span><i class="fas fa-check"></i>Davie</span></li>
+<li><span><i class="fas fa-check"></i>Plantation</span></li>
+<li><span><i class="fas fa-check"></i>Sunrise</span></li>
+<li><span><i class="fas fa-check"></i>Deerfield Beach</span></li>
+<li><span><i class="fas fa-check"></i>Lauderhill</span></li>
+<li><span><i class="fas fa-check"></i>Weston</span></li>
+<li><span><i class="fas fa-check"></i>Tamarac</span></li>
+<li><span><i class="fas fa-check"></i>Margate</span></li>
+<li><span><i class="fas fa-check"></i>Coconut Creek</span></li>
+<li><span><i class="fas fa-check"></i>Oakland Park</span></li>
+<li><span><i class="fas fa-check"></i>North Lauderdale</span></li>
+<li><span><i class="fas fa-check"></i>Hallandale Beach</span></li>
+<li><span><i class="fas fa-check"></i>Lauderdale Lakes</span></li>
+<li><span><i class="fas fa-check"></i>Dania Beach</span></li>
+<li><span><i class="fas fa-check"></i>Cooper City</span></li>
+<li><span><i class="fas fa-check"></i>Parkland</span></li>
+<li><span><i class="fas fa-check"></i>West Park</span></li>
+<li><span><i class="fas fa-check"></i>Wilton Manors</span></li>
+<li><span><i class="fas fa-check"></i>Lighthouse Point</span></li>
+<li><span><i class="fas fa-check"></i>North Andrews Garden</span></li>
+<li><span><i class="fas fa-check"></i>Melrose Park</span></li>
+<li><span><i class="fas fa-check"></i>Southwest Ranches</span></li>
+<li><span><i class="fas fa-check"></i>Broadview Park</span></li>
+<li><span><i class="fas fa-check"></i>Pembroke Park</span></li>
+<li><span><i class="fas fa-check"></i>Lauderdale-by-the-Sea</span></li>
+<li><span><i class="fas fa-check"></i>Lake Forest</span></li>
+<li><span><i class="fas fa-check"></i>Pine Island Ridge</span></li>
+<li><span><i class="fas fa-check"></i>Carver Ranches</span></li>
+<li><span><i class="fas fa-check"></i>Broward Estates</span></li>
+<li><span><i class="fas fa-check"></i>Rock Island</span></li>
+<li><span><i class="fas fa-check"></i>Kendall Green</span></li>
+<li><span><i class="fas fa-check"></i>And Much More!</span></li>
+						</ul>												
+					</div>
+				</div>
+				
+		</div><!-- row -->
+	</div> <!-- container -->				
+</section>	
+<!-- end:secServeArea  --------------------------------- -->
+<!-- ----- -->
+
+

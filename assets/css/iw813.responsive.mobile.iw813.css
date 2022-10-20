@@ -1,0 +1,427 @@
+/*
+ * LAURIES WELDING GROUP Ver 2.2
+ * Tech powered by CodeByUs (CodeByUs.com)
+ * Copyright 2005-2022 CodeByUs, Inc.
+ * 
+*/
+
+
+/* Mobile-Only */
+/*@media only screen and (min-width: 576px) and (max-width: 767px) {*/
+@media only screen and (max-width: 767px) {
+    
+    .section-title h3, .section-title h4, .section-title .sub-title
+    {
+        font-size: 15px;
+    }
+    .iw813, .iw813-12, .iw813-14, .iw813-16, .iw813-20 {
+        font-size: 14px !important;        
+    }
+    /******************************** page-header-area ******************************/	
+	.page-header-area { height: 280px; 	}
+    
+	.page-header-area-content { margin-top: 170px;	}
+	.page-header-area-content h1 { font-size: 26px;	}
+	
+	.page-header-area-content h1.bookAppt { font-size: 26px;	}
+	
+	.page-header-area-content h2 {
+		font-size: 14px !important;
+		margin-bottom: 2px;
+	}
+    
+
+    .main-banner {
+        height: 100%;
+        padding-top: 260px;
+        padding-bottom: 100px;
+    }
+    
+    .header-contact-info li {
+        
+    }
+
+    .header-contact-info li.topBest {
+       font-size: 14px !important; 
+    }
+
+.main-banner.mb-Why .sub-title  { font-size: 1.25rem !important;  }
+.main-banner.mb-Why h1  { font-size: 2.75rem !important; }
+.main-banner.mb-Why h2  { font-size: 1.5rem !important; padding-top:5px;}
+
+.main-banner.mb-Season .sub-title  { font-size: 1.25rem !important;  }
+.main-banner.mb-Season h1  { font-size: 2.15rem !important; }
+.main-banner.mb-Season h2  { font-size: 1.35rem !important; padding-top:5px;}
+
+.main-banner.mb-Finance .sub-title  { font-size: 2.05rem !important;  }
+.main-banner.mb-Finance h1  { font-size: 2.35rem !important; }
+.main-banner.mb-Finance h2  { font-size: 1.45rem !important; padding-top:5px;}
+
+.main-banner.mb-Energy .sub-title  { font-size: 1.45rem !important;  }
+.main-banner.mb-Energy h1  { font-size: 2.35rem !important; }
+.main-banner.mb-Energy h2  { font-size: 1.65rem !important; padding-top:5px;}
+    
+.main-banner.mb-Espanol .sub-title  { font-size: 1.75rem !important;  }
+.main-banner.mb-Espanol h1  { font-size: 2.35rem !important; }
+.main-banner.mb-Espanol h2  { font-size: 1.65rem !important; padding-top:5px;}
+    
+.main-banner.mb-Why p,
+.main-banner.mb-Season p,
+.main-banner.mb-Finance p,
+.main-banner.mb-Energy p,
+.main-banner.mb-Espanol p  { font-size: 1rem !important; padding:0px 10px; }
+    
+.main-banner-content {
+    text-align: center;
+    max-width: 100%;
+    margin-top: 0;
+}
+/*
+    
+  .main-banner-content {
+    text-align: left;
+    max-width: 435px;
+  }
+    
+*/
+    .main-banner-content h1,
+.main-banner-content h2 {
+        font-size: 28px !important;
+ }
+    
+    
+  .main-banner-content .btn-box .btn-primary {
+    margin-right: 20px;
+    display: inline-block;
+    width: auto;	  
+  }
+  .main-banner-content .btn-box .video-btn {
+    position: absolute;
+    top: 0;
+    font-size: 15px;
+    margin-top: 0;
+  }
+
+    
+  .home-slides.owl-theme .owl-nav [class*=owl-] {
+    left: 30px;
+  }
+  .home-slides.owl-theme .owl-nav [class*=owl-].owl-next {
+    left: auto;
+    right: 30px;
+  }
+    
+    
+.header-bg-aboutus-financing,
+.header-bg-family {      
+    background-image: url("../img/headers/iw305-header-family.jpg");
+    background-position: bottom 0px right 0px !important;		        
+}
+    
+
+    
+  .col-lg-3:nth-child(1) .featured-services-box, .col-lg-3:nth-child(3) .featured-services-box {
+    border-right: 1px solid #436585;
+  }
+    
+
+  .subscribe-form form .input-newsletter {
+    height: 65px;
+    padding-left: 15px;
+    font-size: 15px;
+  }
+  .subscribe-form form button {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    height: 55px;
+    line-height: 57px;
+    padding: 0 50px 0 20px;
+    font-size: 14px;
+    display: inline-block;
+    width: auto;
+    margin-top: 0;
+  }
+  .why-choose-us-content .content {
+    max-width: 540px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .why-choose-us-content .features-list {
+    margin-left: -15px;
+    margin-right: 15px;
+  }
+  .why-choose-us-content .features-list li {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .why-choose-us-content.bg-white .content {
+    max-width: 540px;
+  }
+  .col-lg-6:nth-child(1) .single-services-box, .col-lg-6:nth-child(3) .single-services-box, .col-lg-6:nth-child(5) .single-services-box {
+    border-right: 1px solid #eeeeee !important;
+  }
+  .col-lg-4:nth-child(1) .single-services-box, .col-lg-4:nth-child(3) .single-services-box, .col-lg-4:nth-child(5) .single-services-box, .col-lg-4:nth-child(7) .single-services-box, .col-lg-4:nth-child(9) .single-services-box {
+    border-right: 1px solid #eeeeee !important;
+  }
+  .services-details-info ul li {
+    -ms-flex: 0 0 50%;
+    -webkit-box-flex: 0;
+            flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .blog-details-desc .article-footer {
+    text-align: left;
+  }
+  .blog-details-desc .article-footer .article-tags {
+    -ms-flex: 0 0 50%;
+    -webkit-box-flex: 0;
+            flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .blog-details-desc .article-footer .article-share {
+    -ms-flex: 0 0 50%;
+    -webkit-box-flex: 0;
+            flex: 0 0 50%;
+    max-width: 50%;
+    margin-top: 0;
+  }
+  .blog-details-desc .article-footer .article-share .social {
+    text-align: right;
+  }
+  .copyright-area {
+    text-align: left;
+  }
+  .copyright-area ul {
+    text-align: center;
+    margin-top: 0;
+  }
+
+
+    .copyright-area p { text-align: center; }  
+    
+    
+    /* ---- prettyPhoto JS ---  */
+    .pp_pic_holder.pp_default { width: 90%!important; left: 5%!important; overflow: hidden; }
+    div.pp_default .pp_content_container .pp_left { padding-left: 0!important; }
+    div.pp_default .pp_content_container .pp_right { padding-right: 0!important; }
+    .pp_content { width: 100%!important; height: auto!important; }
+    .pp_fade { width: 100%!important; height: 100%!important; }
+    a.pp_expand, a.pp_contract, .pp_hoverContainer, .pp_gallery, .pp_top, .pp_bottom { display: none!important; }
+    #pp_full_res img { width: 100%!important; height: auto!important; }
+    .pp_details { width: 100%!important; padding-left: 3%; padding-right: 4%; padding-top: 10px; padding-bottom: 10px; background-color: #fff; margin-top: -2px!important; }
+    a.pp_close { right: 7%!important; top: 10px!important; }
+    #pp_full_res { padding: 5px !important; }
+    
+    
+    /***=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= welcomeArea =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=***/
+    .main-banner-content {
+        padding-bottom: 0px;
+    }
+    .welcomeArea {
+        padding: 10px 0px 10px;
+    }
+    
+     .welcomeArea .welcome-content {        
+        padding: 10px 20px 15px;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    .welcomeArea .welcome-content h1 {
+        font-weight: 400;
+        font-size: 20px;
+        padding-bottom:2px;
+    }
+    .welcomeArea .welcome-content h2 {
+            font-size: 16px;
+            line-height: 1.50rem;
+            color: #fff;
+/*        background-color: #23297a  ;*/
+            background-color: #05B44D;
+    }
+    .welcomeArea .welcome-content p {
+        font-size: 14px;
+        line-height: 1.15rem;
+    }
+    
+    
+    /*PILOT - UPDATE*/
+    .btn-box {
+        padding-top:10px;
+    }
+    
+    .btn-primary-header {
+        font-size: 11px;
+    }
+    
+    .btn-header-orange { 
+        font-size: 12px;
+        padding: 14px 36px 14px 10px;        
+    }
+    
+    
+    
+    
+    
+    .caro-services-area {
+        padding: 10px 15px 5px;
+        
+    }
+    
+    .trusted-slides {
+        padding: 10px 15px;
+    }
+     
+    
+    
+    
+    
+    .serve-area .serve-content h1 {
+        font-size: 20px;
+    }
+    
+    .trusted-area {
+        padding-bottom: 10px;
+        
+    }
+    
+    .single-footer-widget {
+        padding-top: 10px;
+    }
+ 
+    .copyright-area p.copy {
+      padding-top: 10px;
+    }
+    
+    
+    
+    
+    
+    
+	/******************************** SERVICES-PAGES ******************************/	
+	
+	
+	/***=-=-=-=-=-= Page-Header-Background =-=-=-=-=-=-=-=-=-=-=***/
+	.header-bg-service-emergency {  	
+		background-position: bottom 0px right -310px !important;	
+	}
+	
+	
+	.services-details-header { text-align: center; }
+	.services-details-area { padding: 5px 0px 0px; }
+	.services-details-header h1	{ /*will not be displayed*/ }
+	
+	.services-details-header h1::before { width: 0px;  }
+	.services-details-header h1 {
+		font-size: 20px;
+		text-align: center;
+		width: 100%;
+	}	
+		
+    
+    .services-details-header h2 {
+        padding: 3px 0px;
+    }
+	.services-details-header h3.special-sm, 
+	.services-details-header h3.price	 {	
+        
+/*		padding: 3px 5px;*/
+    	margin-bottom: 5px;
+/*    	display: inline-block;*/
+		text-align: center;
+		width: 85%;
+        font-size: 16px;        
+        
+	}
+	.services-details-header h3.special {
+/*		display: inline-block;*/
+		border-radius: 3px;
+		margin-bottom: 5px;
+/*		padding: 2px 10px;*/
+		font-size: 16px;
+		width: 75%;		
+		text-align: center;        
+	} 
+	.services-details-header h3.special sup {
+		font-size: 10px;
+		text-shadow: none;
+	}
+
+	.services-details-header p {		
+        margin: 5px 10px 0px 10px;
+        font-size: 13px;
+        line-height: 1.35em;
+	}
+    
+    .service-item-box .btnSmall {
+        padding: 4px 15px 5px 15px;    
+    }
+    
+    
+    .bookEstimateSteps p {
+       margin-top: 6px;
+       line-height: 1.35em; 
+    }
+    
+    .book-appt-content form .btn {
+        font-size: 12px;
+    }
+    .book-appt-content form .btn.btn-primary i {    
+        font-size: 18px;
+    }
+       
+    .btnQuickCall {        
+        padding: 3px 5px 3px 5px;
+        font-size: 14px;                
+    }
+        
+    .top-title-header {
+    	text-align: center;
+	}	
+		
+	.top-title-header h3 {
+		display: inline-block;
+		border-radius: 3px;
+		margin-bottom: 5px;
+		padding: 2px 10px;
+		font-size: 16px;
+/*		width: 85%;*/
+		width: 100%;
+		text-align: center;
+	}
+	
+		
+	
+	.top-title-header h2 {
+		font-size: 22px;
+		text-align: center;
+		width: 100%;
+	}
+
+	.top-title-header p {
+		color: #6d7a8c;
+		font-weight: 400;
+		text-align: justify;
+		font-size: 14px;		
+		margin-top: 6px;
+        line-height: 1.15rem;        
+	}
+		
+    
+    .ppt-header h2 {
+        font-size: 16px;
+    }
+    .ppt-header p {
+        font-size: 13px;
+        line-height: 1.05rem;
+    }
+    
+    
+    .serve-area .serve-content .features-list {
+        padding-left: 5px;
+    }
+	
+}  /* @media only screen and (max-width: 767px) */
+

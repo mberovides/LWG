@@ -1,0 +1,20 @@
+<!-- ----- -->				
+<!-- ------------------------------ secRestrictionsArea --------------------------------- -->				
+		<section id="secRestrictionsArea" class="services-restrictions-area">
+		<div class="container">			
+			<div class="row justify-content-center">
+				<div class="col-lg-10 col-md-12">
+					<h1>Some Offer/Discount Restrictions May Apply</h1>
+					<p>* These offers can only apply to new customers who either call us during business hours and mention this Google-Special or 
+                        new customers who fill out the online free no-obligation pricing estimate request.&nbsp;<i class="fas fa-caret-right"></i>&nbsp;Also as explicited disclose, certain discounts may required a minimum total purchase or a certain amount of products.
+                        &nbsp;<i class="fas fa-caret-right"></i>&nbsp;Weekly offers expire and are valid online only while last 
+                        &nbsp;<i class="fas fa-caret-right"></i>&nbsp;Website offers not valid with any other Online, TV, Digital Media, Print Media, Movie Theatre (AMC, Regal, Cinemax) or Radio offers
+                        &nbsp;<i class="fas fa-caret-right"></i>&nbsp;                                  
+                        All prices, deals, and/or offers will be clearly explained to each customer, no hidden fees & no extra (surprise) costs.
+					</p>         					
+				</div>					
+			</div><!-- row -->
+		</div> <!-- container -->		
+	</section> 
+<!-- end:secRestrictionsArea  --------------------------------- -->
+<!-- ----- -->

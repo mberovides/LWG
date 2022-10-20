@@ -1,0 +1,51 @@
+
+<!-- ----- -->
+<!-- ------------------------------ secFacts --------------------------------- -->
+	<section id="secFacts"  class="facts-area cover1Rev jarallax" data-jarallax='{"speed": 0.3}'>
+	<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-5 col-md-12">
+					<div class="facts-content">                        
+						<span class="sub-title"><i class="fas fa-award color-043d72"></i> We Did It!</span>
+						<h2>Our Welding Stories,</h2>
+						<h2>Proud Achievements!</h2>
+					</div>
+				</div>
+				
+				<div class="col-lg-7 col-md-12">
+					<div class="row">					
+						<div class="col-lg-2 col-md-2 col-6 col-sm-3">
+							<div class="single-facts">
+								<h3><span class="odometer" data-count="5">00</span><sup>+</sup></h3>
+								<p>Dedicated<br> Years</p>
+							</div>
+						</div>
+                        
+                        <div class="col-lg-4 col-md-4 col-6 col-sm-4">
+							<div class="single-facts">
+								<h3><span class="odometer" data-count="15">00</span><sup>+</sup></h3>
+								<p>Fort Lauderdale<br>Locations</p>
+							</div>
+						</div>
+                        
+                        <div class="col-lg-3 col-md-3 col-6 col-sm-3">
+							<div class="single-facts">
+								<h3><span class="odometer" data-count="1400">00</span><sup>+</sup></h3>
+								<p>Welding<br>Projects</p>
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-md-3 col-6 col-sm-3">
+							<div class="single-facts">
+								<h3><span class="odometer" data-count="1500">00</span><sup>+</sup></h3>
+								<p>Fabrications<br>Done</p>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<!-- end:secFacts  --------------------------------- -->
+<!-- ----- -->

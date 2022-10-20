@@ -1,0 +1,54 @@
+<!-- ----- -->
+<!-- ------------------------------ secWhyChooseUs --------------------------------- -->				
+	<section class="why-choose-us-area">
+		<div class="container-fluid"> 
+			<div class="row">
+				<div class="col-lg-6 col-md-12">
+					<div class="why-choose-us-content">
+						<div class="content">
+							<span class="sub-title">¿Por qué Tampa Bay nos elige?</span>
+							<h2>¡Protegemos Familias, Casas y Negocios<br> todos los días!</h2> 
+							<p><span class="iw813">LAURIES WELDING GROUP</span> ofrece una amplia gama de servicios de puertas y ventanas de impacto para los residentes de Tampa Bay por más de 15 años. Por favor, considérenos para mejorar drásticamente la eficiencia energética de su hogar, aumentar la seguridad y la protección contra huracanes, cornetas y robos, ayudar en la reducción del ruido, protección contra rayos ultravioleta y grandes ahorros en las primas de seguros.
+                                </p>			                            
+							<ul class="features-list-all">
+								<li><span><i class="fas fa-check-double"></i> Ventanas Guillotina Simple</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Ventanas Guillotina Doble</span></li>
+								<li><span><i class="fas fa-check-double"></i> Ventanas Enrollables</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Ventanas Corredizas</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Ventanas Cuadros</span></li>								
+								<li><span><i class="fas fa-check-double"></i> Ventanas Casement</span></li>								
+                                <li><span><i class="fas fa-check-double"></i> Ventanas Bahia</span></li>                                
+                                <li><span><i class="fas fa-check-double"></i> Puertas de Entrada</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Puertas de Entrada Personalizadas</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Puertas de Plegables para Patio</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Puertas de Corredizas de Vidrio</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Puertas de Entrada</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Puertas Francesas</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Puertas de Garaje</span></li>
+                                <li><span><i class="fas fa-check-double"></i> Puertas de Tiendas Comerciales</span></li>
+							</ul>
+							<div class="btn-box pt-4"> 
+								<a href="../services-es.html" class="btn btn-primary btn-orange">Consulte Nuestras Ofertas Especiales <i class="fas fa-arrow-right"></i></a>	
+							</div>							
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-6 col-md-12 d-none d-sm-block">
+					<div class="divider-Bs5"></div>
+					<div class="why-choose-us-slides owl-carousel owl-theme">
+						<div class="why-choose-us-image bg21"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-10.jpg" alt="image"></div>
+						<div class="why-choose-us-image bg22"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-20.jpg" alt="image"></div>
+						<div class="why-choose-us-image bg23"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-30.jpg" alt="image"></div>
+                        <div class="why-choose-us-image bg24"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-40.jpg" alt="image"></div>
+                        <div class="why-choose-us-image bg25"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-50.jpg" alt="image"></div>
+                        <div class="why-choose-us-image bg26"><img src="/assets/img/owl-WhyUs/iw305-owl-wu-60.jpg" alt="image"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<!-- end:secWhyChooseUs  --------------------------------- -->
+<!-- ----- -->
+
+

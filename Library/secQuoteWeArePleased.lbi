@@ -1,0 +1,22 @@
+
+<!-- ----- -->
+    <!-- ------------------------------ secQuoteArea --------------------------------- -->
+	<section id="secQuoteArea" class="quote-area">			
+		<div class="container">
+		   <div class="row justify-content-center">
+				<div class="col-lg-9 col-md-10">                   	                		
+					<blockquote class="wp-block-quote">
+						<p class="animated fadeInUp" style="opacity: 1;">We are pleased to welcome you to <span class="iw813">LAURIES WELDING GROUP</span>, 
+						affordable welding and fabrication services for a lifetime.
+						Now celebrating <strong>Five (5+)</strong> years planning and welding with installation in all Fort Lauderdale Area & Surroundings.
+						Built on the intensive attention we give to affordability and reliability, you can be sure that you will be taken care of properly if you come to us. We want to be familiar with every detail pertaining to your needs so that nothing gets overlooked. At the same time, we are an experienced, result-oriented business that never lets the details get in the way of helping you achieve the outcomes that are important to you. We are looking forward to meeting and sharing our experience with you <strong>very soon</strong>.
+                      
+						</p>
+					</blockquote>                	
+				 </div> <!-- col -->
+			</div><!-- row -->                             
+
+		</div> <!-- container -->		
+	</section>
+	<!-- end: Section --------- secQuoteArea ---------- -->  
+<!-- ----- -->

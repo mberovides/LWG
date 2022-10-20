@@ -1,0 +1,8 @@
+<!-- -- -- -- -->
+<!-- ------------------------------ secQuickTabs --------------------------------- -->
+<div class="secQuickTabs text-center d-none d-sm-block">
+   <a href="/service-handrails.html" class="btn btnQuickTabs quickDoors d-none">Railing</a>
+   <a href="/service-fence-gates.html" class="btn btnQuickTabs quickCommercials d-none">Gates &amp; Fences</a>
+</div>
+<!-- end: Section --------- secQuickTabs ---------- -->
+<!-- -- -- -- -->

@@ -1,0 +1,26 @@
+/*
+ * LAURIES WELDING GROUP Ver 2.2
+ * Tech powered by CodeByUs (CodeByUs.com)
+ * Copyright 2005-2022 CodeByUs, Inc.
+ * 
+*/
+
+
+/* Mobile-Only */
+/*@media only screen and (min-width: 576px) and (max-width: 767px) {*/
+@media only screen and (max-width: 767px) {
+
+    .services-details-header h3.special {
+        font-size: 14px;
+    }
+
+    .services-details-header h3.special-sm, .services-details-header h3.price {
+        font-size: 14px;
+    }
+    
+    .section-title h2 {
+        font-size: 24px;
+    }
+    	
+}  /* @media only screen and (max-width: 767px) */
+

@@ -1,0 +1,34 @@
+<!-- -- -- -- -->
+<!-- ------------------------------ secTop5Distinctions --------------------------------- -->
+<!-- -- -- -- -->
+<section id="secTop5" class="service-faq-area">
+    <div class="container">			
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-12">
+
+                <div class="blog--details--desc">                          
+                    <div class="article--content">                               
+                        <p>Estamos especialmente atentos a las necesidades de instalación de puertas y ventanas de todos. Hacemos nuestro mejor esfuerzo para ayudar con las opciones flexibles de entrega y recogida. Ofrecemos la más alta calidad en el cuidado de puertas / ventanas de impacto con precios locales competitivos.</p>                        
+                        <h3 class="gradTGreen">Nuestras 5 principales distinciones de la competencia:</h3>
+                        <ul class="features--list">                            
+<li><i class="fas fa-check"></i> <strong>Compañia Local</strong>: Solamente brindamos servicios en Tampa Bay (813)!</li>
+<li><i class="fas fa-check"></i> <strong>Experiencia / Habilidades</strong>: Actualmente estamos celebrando nuestro 15 Aniversario instalando ventanas y puertas.</li>
+<li><i class="fas fa-check"></i> <strong>Precios Competitivos</strong>: Precios asequibles, competitivos y con descuentos en todo Tampa Bay Area.</li>
+<li><i class="fas fa-check"></i> <strong>Calidad Asegurada</strong>: Todas nuestras ventanas y puertas están aprobadas por los condados de Tampa Bay. ¡Evite malas sorpresas en medio de un huracán!</li>									
+<li><i class="fas fa-check"></i> <strong>Métodos de Pago y Financiamiento</strong>: Aceptamos varios métodos de pago y ofrecemos incentivos financieros ($0 Depósito + 100% Financiamiento).</li>                            
+                        </ul>
+                        
+                       <p>
+                       <span class="iw813">LAURIES WELDING GROUP</span> se compromete a proporcionar un servicio personalizado de Ventanas y Puertas de la más alta calidad. Nuestro personal se esmera en conocer las necesidades de cada cliente y satisfacer a cada uno de manera oportuna. Creamos relaciones encantadoras que transformarán drásticamente su negocio y/o la inversión de por vida de su hogar.
+                      </p>                                                            
+
+                    </div>                            
+                </div>
+
+            </div>					
+        </div>
+    </div> <!-- container -->		
+</section>
+<!-- -- -- -- -->
+<!-- end: Section --------- secTop5Distinctions ---------- -->
+<!-- -- -- -- -->

@@ -1,0 +1,15 @@
+<!-- ----- -->				
+<!-- ------------------------------ secRestrictionsArea --------------------------------- -->				
+		<section id="secRestrictionsArea" class="services-restrictions-area">
+		<div class="container">			
+			<div class="row justify-content-center">
+				<div class="col-lg-10 col-md-12">					
+					<h1>Algunas restricciones de oferta/descuento pueden aplicar</h1>
+					<p>* Estas ofertas solo se pueden aplicar a nuevos clientes que nos llamen durante el horario comercial y mencionen este especial de Google o nuevos clientes que completen la solicitud de cita para cotización (estimado gratis) en línea.&nbsp;<i class="fas fa-caret-right"></i>&nbsp;También, como se indica explícitamente, ciertos descuentos pueden requerir una compra total mínima o una cierta cantidad de puertas y/o ventanas para ser instaladas para calificar. Todos los descuentos de ventana se basan en una ventana estándar de 53 "x50" (o de mayor tamaño), ya sea enrollable o de suspensión simple. Los descuentos de puertas excluyen todas las puertas simples.&nbsp;<i class="fas fa-caret-right"></i>&nbsp; Las ofertas semanales expiran y son válidas en línea solo mientras existan. &nbsp;<i class="fas fa-caret-right"></i>&nbsp;Las ofertas del sitio web no son válidas con ninguna otra oferta en línea, TV, medios digitales, medios impresos, cines (AMC, Regal, Cinemax) o radio.&nbsp;<i class="fas fa-caret-right"></i>&nbsp;Todos los precios, ofertas y/u ofertas se explicarán claramente a cada cliente, sin cargos ocultos ni costos adicionales (sorpresa).                        
+					</p>         					
+				</div>					
+			</div><!-- row -->
+		</div> <!-- container -->		
+	</section> 
+<!-- end:secRestrictionsArea  --------------------------------- -->
+<!-- ----- -->

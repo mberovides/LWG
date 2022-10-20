@@ -1,0 +1,23 @@
+<!-- -- -- -- -->
+<!-- ------------------------------ secCaroServices --------------------------------- -->
+<!-- -- -- -- -->
+		<section id="secCaroServices" class="caro-services-area">			
+			<div class="container">
+			
+				<div class="row justify-content-center">
+					<div class="col-lg-11 col-md-10">
+							<div class="caro-services-slides owl-carousel owl-theme">								                                
+                                <div class="single-image"><img src="/assets/img/services/lwg-service-owl-1.jpg" alt="LAURIES WELDING GROUP - Windows"></div>  
+                                <div class="single-image"><img src="/assets/img/services/lwg-service-owl-2.jpg" alt="LAURIES WELDING GROUP - Windows"></div>  
+                                <div class="single-image"><img src="/assets/img/services/lwg-service-owl-3.jpg" alt="LAURIES WELDING GROUP - Windows"></div>  
+                                <div class="single-image"><img src="/assets/img/services/lwg-service-owl-4.jpg" alt="LAURIES WELDING GROUP - Windows"></div>  
+                                <div class="single-image"><img src="/assets/img/services/lwg-service-owl-5.jpg" alt="LAURIES WELDING GROUP - Windows"></div>  
+							</div> 
+				  </div> <!-- col -->
+				</div><!-- row -->
+
+			</div> <!-- container -->		
+		</section>
+<!-- -- -- -- -->
+<!-- end: Section --------- secCaroServices ---------- -->
+<!-- -- -- -- -->

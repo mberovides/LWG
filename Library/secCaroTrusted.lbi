@@ -1,0 +1,27 @@
+<!-- ----- -->
+<!-- ------------------------------ secTrustedArea --------------------------------- -->
+	<section id="secTrustedArea" class="trusted-area">
+	
+		<div class="container">
+			<div class="section-title">				
+                <h2 class="gradTGreen">Leading, Reliable, Trusted Contradctors partners!</h2>
+				<p class="text-justify">
+                    <span class="iw813">LAURIES WELDING GROUP</span> We're privileged to work with a broad range of clients, designers, architects and engineers. We work closely with everyone connected to a job, but listen most of all to you, our client.  We minimize disruptions to the workplace, maintain regular contact with all participants from start to finish and meet weekly to review progress and issues. Your questions are answered quickly and efficiently with an expertise that continually reinforces a high level of trust, essential to every job.
+				</p>
+			</div>
+		</div>
+        
+		<div class="container">							
+			<div class="trusted-slides owl-carousel owl-theme">                
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-40.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-50.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-60.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>             
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-70.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-80.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>                
+			</div>
+		</div>      
+        
+	</section>
+<!-- end:secTrustedArea  --------------------------------- -->
+<!-- ----- -->
+

@@ -1,0 +1,29 @@
+<!-- ----- -->
+<!-- ------------------------------ secTrustedArea --------------------------------- -->
+	<section id="secTrustedArea" class="trusted-area">
+	
+		<div class="container">
+			<div class="section-title">				
+                <h2 class="gradTGreen">¡Marcas Líderes. Marcas Confiables Nacionalmente!</h2>
+				<p class="text-justify"><span class="iw813">LAURIES WELDING GROUP</span> ha impactado las casas familiares del Sur de Florida al instalar ventanas y puertas de alta calidad para huracanes. Tenemos la certificación de Tampa (Costa Oeste), y solo ofrecemos a nuestros activos de mayor valor (nuestros clientes) los principales operadores financieros, fabricantes, proveedores y transportistas de confianza del país en la industria de puertas y ventanas de impacto de huracanes. Aunque hay muchas más marcas, cada una de estas a continuación de una forma u otra son las razones por las que podemos brindar un servicio de calidad tan confiable y precios asequibles. Todas nuestras ventanas y puertas están totalmente certificadas para la Costa Oeste de la <strong>Florida</strong>.
+				</p>
+			</div>
+		</div>
+        
+		<div class="container">							
+			<div class="trusted-slides owl-carousel owl-theme">                
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-10.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-20.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-30.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-40.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-50.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-60.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-70.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+                <div class="single-owl-item"><a href="#"><img src="../assets/img/owl-partners/iw305-owl-trusted-80.jpg" alt="LAURIES WELDING GROUP Partners"></a></div>
+			</div>
+		</div>      
+        
+	</section>
+<!-- end:secTrustedArea  --------------------------------- -->
+<!-- ----- -->
+

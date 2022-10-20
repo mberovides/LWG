@@ -1,0 +1,22 @@
+<!-- -- -- -- -->
+<!-- ------------------------------ secWelcome --------------------------------- -->
+<!-- -- -- -- -->
+<section id="secWelcome" class="quote-area">			
+    <div class="container">
+       <div class="row justify-content-center">
+            <div class="col-lg-9 col-md-10">                   	                		
+                        <blockquote class="wp-block-quote">								
+                            <p class="animated fadeInUp" style="opacity: 1;">
+                                
+                                Nos complace darle la bienvenida a <span class="iw813">LAURIES WELDING GROUP</span>. Podemos ayudarlo a mejorar sus necesidades de protección en el hogar contra huracanes / tormentas, eficiencia energética, tarifas de seguro más bajas y seguridad en el hogar, entre otros beneficios. Este 2022, estamos celebrando nuestro <strong>Quince (15) Aniversario</strong> sirviendo más de 161 áreas en la Florida. 
+                                <strong>Reserve en línea un estimado gratuito con nosotros hoy.</strong>
+                            </p>
+                        </blockquote>
+             </div> <!-- col -->
+        </div><!-- row -->                             
+
+    </div> <!-- container -->		
+</section>
+<!-- -- -- -- -->
+<!-- end: Section --------- secWelcome ---------- -->
+<!-- -- -- -- -->

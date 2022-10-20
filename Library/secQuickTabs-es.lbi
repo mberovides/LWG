@@ -1,0 +1,16 @@
+<!-- -- -- -- -->
+<!-- ------------------------------ secQuickTabs --------------------------------- -->
+<div class="secQuickTabs text-center d-none d-sm-block">
+    <a href="/service-windows-es.html" class="btn btnQuickTabs quickWindows d-none">Ventanas de Impacto (2022)</a>
+    <a href="/service-doors-es.html" class="btn btnQuickTabs quickDoors d-none">Puertas de Impacto (2022)</a>
+    <a href="/service-commercials-es.html" class="btn btnQuickTabs quickCommercials d-none">Comercial/Negocios</a>
+<!--    <a href="/service-blinds-shades.html" class="btn btnQuickTabs quickBlindsShades d-none">Blinds & Shades</a>-->
+</div>
+<div class="secQuickTabs text-center d-block d-sm-none">
+    <a href="/service-windows-es.html" class="btn btnQuickTabs quickWindows d-none">Ventanas (2022)</a>
+    <a href="/service-doors-es.html" class="btn btnQuickTabs quickDoors d-none">Puertas (2022)</a>
+    <a href="/service-commercials-es.html" class="btn btnQuickTabs quickCommercials d-none">Comercial/Negocios</a>
+<!--    <a href="/service-blinds-shades.html" class="btn btnQuickTabs quickBlindsShades d-none">Blinds & Shades</a>-->
+</div>
+<!-- end: Section --------- secQuickTabs ---------- -->
+<!-- -- -- -- -->

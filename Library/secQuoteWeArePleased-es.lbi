@@ -1,0 +1,19 @@
+
+<!-- ----- -->
+    <!-- ------------------------------ secQuoteArea --------------------------------- -->
+	<section id="secQuoteArea" class="quote-area">			
+		<div class="container">
+		   <div class="row justify-content-center">
+				<div class="col-lg-9 col-md-10">                   	                		
+					<blockquote class="wp-block-quote">
+						<p class="animated fadeInUp" style="opacity: 1;">
+                            Nos complace darle la bienvenida a <span class="iw813">LAURIES WELDING GROUP</span>. Ofrecemos un servicio asequible de ventanas y puertas de impacto contra huracanes para mejorar su protección y el valor de su hogar de por vida. Estamos celebrando <strong>quince (15+)</strong> años planificando y ejecutando la instalación de ventanas y puertas en Tampa Bay y sus áreas aledañas. Esperamos conocerlo(a) y compartir nuestra experiencia con usted <strong>muy pronto</strong>.
+						</p>
+					</blockquote>                	
+				 </div> <!-- col -->
+			</div><!-- row -->                             
+
+		</div> <!-- container -->		
+	</section>
+	<!-- end: Section --------- secQuoteArea ---------- -->  
+<!-- ----- -->

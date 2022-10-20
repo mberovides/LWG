@@ -1,0 +1,20 @@
+<!-- -- -- -- -->
+<!-- ------------------------------ secWelcome --------------------------------- -->
+<!-- -- -- -- -->
+<section id="secWelcome" class="quote-area">			
+    <div class="container">
+       <div class="row justify-content-center">
+            <div class="col-lg-9 col-md-10">                   	                		
+                        <blockquote class="wp-block-quote">							
+                            <p class="animated fadeInUp" style="opacity: 1;">We are pleased to welcome you to <span class="iw305-16">LAURIES WELDING GROUP</span>. We can help you improve your Welding and Fabrication needs, Fences, Gates, Handrail,Beams and any custom job with metal, iron or stell. 
+                            This 2022, we are celebrating our <strong>Five (5) Anniversary</strong> serving 161+ Florida areas.
+                    <strong>Request your Free Custom Estimate with us and let us share our 5+ Years experience with you.</strong></p>
+                        </blockquote>
+             </div> <!-- col -->
+        </div><!-- row -->                             
+
+    </div> <!-- container -->		
+</section>
+<!-- -- -- -- -->
+<!-- end: Section --------- secWelcome ---------- -->
+<!-- -- -- -- -->
